@@ -67,7 +67,7 @@ Software and machine learning algorithms are used to gain deeper insights, predi
 
 Data scientists work together with analysts and businesses to convert data insights into action. They make diagrams, graphs, and charts to represent trends and predictions. Data summarization helps stakeholders understand and implement results effectively.
 
-https://d1.awsstatic.com/whatisimg/Big-Data-Redesign_Diagram_On-Demand-Analytics.dd0dc486ace9743795a829853183c38423914f83.6a95d29715fe6c2c4d419899eef6b002c2ee3a64.png
+https://logicmojo.com/assets/dist/new_pages/images/life-cycle-ds.jpg
 
 
 **What are the data science techniques?**
