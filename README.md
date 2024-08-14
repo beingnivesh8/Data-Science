@@ -1,10 +1,10 @@
-# Data-Science📈
+# **Data-Science📈**
 
-What is data science?
+**What is data science?**
 
 Data science is the study of data to extract meaningful insights for business. It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, and computer engineering to analyze large amounts of data. This analysis helps data scientists to ask and answer questions like what happened, why it happened, what will happen, and what can be done with the results.
 
-Why is data science important?
+**Why is data science important?**
 
 Data science is important because it combines tools, methods, and technology to generate meaning from data. Modern organizations are inundated with data; there is a proliferation of devices that can automatically collect and store information. Online systems and payment portals capture more data in the fields of e-commerce, medicine, finance, and every other aspect of human life. We have text, audio, video, and image data available in vast quantities.
 
@@ -38,9 +38,10 @@ Prescriptive analytics takes predictive data to the next level. It not only pred
 
 Back to the flight booking example, prescriptive analysis could look at historical marketing campaigns to maximize the advantage of the upcoming booking spike. A data scientist could project booking outcomes for different levels of marketing spend on various marketing channels. These data forecasts would give the flight booking company greater confidence in their marketing decisions.
 
+
 What is the data science process?
 
-A business problem typically initiates the data science process. A data scientist will work with business stakeholders to understand what business needs. Once the problem has been defined, the data scientist may solve it using the OSEMN data science process:
+A business problem typically initiates the data science process. A data scientist will work with business stakeholders to understand what business needs. Once the problem has been defined, the data scientist may solve it using the **OSEMN** data science process:
 
 O – Obtain data
 
@@ -68,27 +69,33 @@ Data scientists work together with analysts and businesses to convert data insig
 
 https://d1.awsstatic.com/whatisimg/Big-Data-Redesign_Diagram_On-Demand-Analytics.dd0dc486ace9743795a829853183c38423914f83.6a95d29715fe6c2c4d419899eef6b002c2ee3a64.png
 
+
 What are the data science techniques?
 
 Data science professionals use computing systems to follow the data science process. The top techniques used by data scientists are:
 
-Classification
+**Classification**
 
 Classification is the sorting of data into specific groups or categories. Computers are trained to identify and sort data. Known data sets are used to build decision algorithms in a computer that quickly processes and categorizes the data. For example:·  
+
 
 Sort products as popular or not popular·  
 Sort insurance applications as high risk or low risk·  
 Sort social media comments into positive, negative, or neutral.
 Data science professionals use computing systems to follow the data science process. 
 
-Regression
+
+**Regression**
 
 Regression is the method of finding a relationship between two seemingly unrelated data points. The connection is usually modeled around a mathematical formula and represented as a graph or curves. When the value of one data point is known, regression is used to predict the other data point. For example:·  
 
-The rate of spread of air-borne diseases.· 
+The rate of spread of air-borne diseases.·
+
  The relationship between customer satisfaction and the number of employees.·  
 The relationship between the number of fire stations and the number of injuries due to fire in a particular location. 
-Clustering
+
+**Clustering**
+
 Clustering is the method of grouping closely related data together to look for patterns and anomalies. Clustering is different from sorting because the data cannot be accurately classified into fixed categories. Hence the data is grouped into most likely relationships. New patterns and relationships can be discovered with clustering. For example: ·  
 
 Group customers with similar purchase behavior for improved customer service.·  
@@ -100,21 +107,27 @@ While the details vary, the underlying principles behind these techniques are:
 Teach a machine how to sort data based on a known data set. For example, sample keywords are given to the computer with their sort value. “Happy” is positive, while “Hate” is negative.
 Give unknown data to the machine and allow the device to sort the dataset independently.
  Allow for result inaccuracies and handle the probability factor of the result.
+ 
 
  What are different data science technologies?
  
 Data science practitioners work with complex technologies such as:
 
 Artificial intelligence: Machine learning models and related software are used for predictive and prescriptive analysis.
+
 Cloud computing: Cloud technologies have given data scientists the flexibility and processing power required for advanced data analytics.
+
 Internet of things: IoT refers to various devices that can automatically connect to the internet. These devices collect data for data science initiatives. They generate massive data which can be used for data mining and data extraction.
+
 Quantum computing: Quantum computers can perform complex calculations at high speed. Skilled data scientists use them for building complex quantitative algorithms.
+
 
 How does data science compare to other related data fields?
 
 Data science is an all-encompassing term for other data-related roles and fields. Let’s look at some of them here:
 
 What is the difference between data science and data analytics?
+
 While the terms may be used interchangeably, data analytics is a subset of data science. Data science is an umbrella term for all aspects of data processing—from the collection to modeling to insights. On the other hand, data analytics is mainly concerned with statistics, mathematics, and statistical analysis. It focuses on only data analysis, while data science is related to the bigger picture around organizational data.In most workplaces, data scientists and data analysts work together towards common business goals. A data analyst may spend more time on routine analysis, providing regular reports. A data scientist may design the way data is stored, manipulated, and analyzed. Simply put, a data analyst makes sense out of existing data, whereas a data scientist creates new methods and tools to process data for use by analysts.
 
 What is the difference between data science and business analytics?
@@ -132,33 +145,3 @@ learning?Machine learning is the science of training machines to analyze and lea
 What is the difference between data science and statistics? 
 
 Statistics is a mathematically-based field that seeks to collect and interpret quantitative data. In contrast, data science is a multidisciplinary field that uses scientific methods, processes, and systems to extract knowledge from data in various forms. Data scientists use methods from many disciplines, including statistics. However, the fields differ in their processes and the problems they study.
-
-What are different data science tools?
-
-AWS has a range of tools to support data scientists around the globe:
-
-Data storage
-
-For data warehousing, Amazon Redshift can run complex queries against structured or unstructured data. Analysts and data scientists can use AWS Glue to manage and search for data. AWS Glue automatically creates a unified catalog of all data in the data lake, with metadata attached to make it discoverable.
-
-Machine learning
-
-Amazon SageMaker is a fully-managed machine learning service that runs on the Amazon Elastic Compute Cloud (EC2). It allows users to organize data, build, train and deploy machine learning models, and scale operations.
-
-Analytics
-
- Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 or Glacier. It is fast, serverless, and works using standard SQL queries.
-Amazon Elastic MapReduce (EMR) processes big data using servers like Spark and Hadoop.
- Amazon Kinesis allows aggregation and processing of streaming data in real-time. It uses website clickstreams, application logs, and telemetry data from IoT devices. 
-Amazon OpenSearch allows search, analysis, and visualization of petabytes of data.
-
-What are the challenges faced by data scientists?
-
-Multiple data sources
-Different types of apps and tools generate data in various formats. Data scientists have to clean and prepare data to make it consistent. This can be tedious and time-consuming.
-
-Understanding the business problem
-Data scientists have to work with multiple stakeholders and business managers to define the problem to be solved. This can be challenging—especially in large companies with multiple teams that have varying requirements.
-
-Elimination of bias
-Machine learning tools are not completely accurate, and some uncertainty or bias can exist as a result. Biases are imbalances in the training data or prediction behavior of the model across different groups, such as age or income bracket. For instance, if the tool is trained primarily on data from middle-aged individuals, it may be less accurate when making predictions involving younger and older people. The field of machine learning provides an opportunity to address biases by detecting them and measuring them in the data and model.
